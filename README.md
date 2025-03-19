@@ -30,16 +30,4 @@ Bem-vindo ao meu portfólio profissional! Este projeto destaca minha experiênci
 - **Deploy**: Netlify, Vercel  
 - **SEO**: Google Analytics, Otimização com Lighthouse  
 
----
-
-## 📁 **Estrutura do Projeto**  
-```bash
-├── public/               # Arquivos estáticos
-├── src/                  
-│   ├── components/       # Componentes reutilizáveis da interface
-│   ├── pages/            # Layouts das páginas (Início, Projetos, etc.)
-│   ├── styles/           # Arquivos globais de CSS/Sass
-│   └── utils/            # Funções auxiliares
-├── .gitignore            
-├── package.json          
-└── README.md             
+---            
